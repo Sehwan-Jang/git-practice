@@ -1,8 +1,6 @@
 # git-practice
 a
 b
-hello
-hi
-e
+c
 hello
 hi
